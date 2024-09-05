@@ -43,7 +43,7 @@ include_once 'config/settings-config.php';
     </div>
 
     <footer>
-        <p>&copy; 2024 Your Company</p>
+        <p>&copy; 2024 made in china</p>
     </footer>
 
 </body>
