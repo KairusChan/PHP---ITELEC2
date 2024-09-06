@@ -10,15 +10,6 @@ include_once 'config/settings-config.php';
     <link rel="stylesheet" href="src/css/style.css">
 </head>
 <body>
-
-    <div class="navbar">
-        <ul class="nav-links">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </div>
-
     <div class="form-section">
         <div class="form-container">
             <h1>SIGN IN</h1>
